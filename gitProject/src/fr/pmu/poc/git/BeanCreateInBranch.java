@@ -7,7 +7,7 @@ public class BeanCreateInBranch {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("J'ai été créé dans une branche");
+		System.out.println("La branche à été mergé je n'ai plus lieu d'exister");
 	}
 
 }
